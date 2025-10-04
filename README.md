@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Edgar e eu sou estudante de Java</h3>
+<h3 align="left">Meu nome é Edgar e eu sou estudante de Javascript</h3>
 
 ###
 
