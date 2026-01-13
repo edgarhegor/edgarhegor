@@ -1,40 +1,32 @@
-<h1 align="left">Olá.</h1>
+<h1 align="left">Olá, Eu sou o Edgar Hegor</h1>
 
 ###
 
-<h3 align="left">Meu nome é Edgar e eu sou estudante de Tecnologia</h3>
+<p align="left">Sou estudante de Sistemas de Informação<br>30 Anos</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">- 30 Anos<br>- Estudante de Sistemas de Informação</p>
-
-###
-
-<h2 align="left">Tecnologias</h2>
+<h3 align="left">Tecnologias</h3>
 
 ###
 
 <div align="left">
-  
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
 
-<h3 align="left">Contato</h3>
+<h2 align="left">Contato</h2>
 
 ###
 
@@ -52,14 +44,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarhegor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edgarhegor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/output/snake.svg" alt="Snake animation" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
