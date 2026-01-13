@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Edgar e eu sou estudante de Javascript</h3>
+<h3 align="left">Meu nome é Edgar e eu sou estudante de Tecnologia</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 29 Anos<br>- Estudante de Sistemas de Informação</p>
+<p align="left">- 30 Anos<br>- Estudante de Sistemas de Informação</p>
 
 ###
 
