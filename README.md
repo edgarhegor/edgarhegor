@@ -52,13 +52,19 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarhegor/edgarhegor/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarhegor/edgarhegor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">📊 Estatísticas</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarhegor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarhegor&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edgarhegor&theme=tokyo-night"/>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=edgarhegor.edgarhegor&"  />
