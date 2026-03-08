@@ -58,8 +58,8 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgarhegor&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgarhegor&layout=compact&theme=tokyonight"/>
   <img src="https://streak-stats.demolab.com?user=edgarhegor&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgarhegor&layout=compact&theme=tokyonight"/>
 </div>
 
 
