@@ -3,35 +3,15 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
 
-###
- <div align="center">
-  <p align="left">Tenho 30 anos, moro em Itapevi-SP e sou estudante de Sistemas de Informação.<br>Meu foco é desenvolvimento backend em Java<br>Linux user</p>
-  <img src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/main/316333524-2ae4d51a-1aae-45b9-86ae-75d01eb6e446.gif" width="700"/>
-</div>
 
-<table border="0">
-<tr>
-<td border="0" width="50%">
+<img align="right" src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/main/316333524-2ae4d51a-1aae-45b9-86ae-75d01eb6e446.gif" width="420"/>
 
-<h2>Sobre mim</h2>
+## Sobre mim
 
 Tenho 30 anos, moro em Itapevi-SP e sou estudante de Sistemas de Informação.  
 Meu foco é desenvolvimento backend em Java.  
 Linux user 🐧
-
-</td>
-
-<td border="0" width="50%" align="right">
-
-<img src="https://raw.githubusercontent.com/edgarhegor/edgarhegor/main/316333524-2ae4d51a-1aae-45b9-86ae-75d01eb6e446.gif" width="420"/>
-
-</td>
-</tr>
-</table>
-
-###
 
 <h4 align="left">Tecnologias</h4>
 
