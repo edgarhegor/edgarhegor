@@ -54,12 +54,18 @@
 
 <h2 align="center">📊 Estatísticas</h2>
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgarhegor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=edgarhegor&theme=tokyonight"/>
+
+</div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edgarhegor&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=edgarhegor&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgarhegor&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edgarhegor&layout=compact&theme=tokyonight"/>
+
 </div>
 
 
